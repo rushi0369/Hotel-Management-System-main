@@ -10,8 +10,6 @@ This system helps hotel staff and administrators to:
 - Process billing and payments
 - Maintain guest records
 
-*(Update this list based on your actual implemented features.)*
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
