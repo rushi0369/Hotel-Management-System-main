@@ -23,11 +23,17 @@ This system helps hotel staff and administrators to:
 
 Hotel-Management-System-main/
 ├── index.php
+
 ├── css/
+
 ├── js/
+
 ├── images/
+
 ├── db/
+
 ├── README.md
+
 └── (other source code files)
 
 
