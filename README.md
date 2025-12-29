@@ -22,6 +22,7 @@ This system helps hotel staff and administrators to:
 ## 📁 Project Structure
 
 Hotel-Management-System-main/
+
 ├── index.php
 
 ├── css/
